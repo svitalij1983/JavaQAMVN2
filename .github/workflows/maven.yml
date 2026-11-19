@@ -1,5 +1,4 @@
 name: CI with Maven
-
 on: [ push, pull_request ]
 
 jobs:
